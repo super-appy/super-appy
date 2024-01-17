@@ -31,8 +31,8 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=super-appy&show_icons=true&count_private=true" align="left" height="200px" />  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-appy&layout=compact" align="center" height="200px" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=super-appy&show_icons=true&count_private=true" align="left" height="180px" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-appy&layout=compact" align="center" height="180px" /></div>  
 
 <br/> 
 
