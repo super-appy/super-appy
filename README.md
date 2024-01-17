@@ -1,7 +1,7 @@
 # <div align="center">🌻 Hi, I'm AYAKA 🌻 
 
-#### 📚 I'm learning 💎Ruby on Rails etc...   
-#### 🌟 Example of work「[いつものお弁当🍱](https://everydaylunchbox-d534442e43a4.herokuapp.com/)」  
+### 📚 I'm learning 💎Ruby on Rails etc...   
+### 🌟 Example of work「[いつものお弁当🍱](https://everydaylunchbox-d534442e43a4.herokuapp.com/)」  
   
 
 <br/>  
