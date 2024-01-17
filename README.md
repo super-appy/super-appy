@@ -1,7 +1,7 @@
 # <div align="center">🌻 Hi, I'm AYAKA 🌻 
 
-## MY WORK 「いつものお弁当」　🍱
-<a href="https://everydaylunchbox-d534442e43a4.herokuapp.com/"><img src="https://i.gyazo.com/14055a8490e40c304b10e3341c3e1496.png" alt="Image from Gyazo" width="500"/></a>
+## MY WORK 「いつものお弁当」🍱
+<a href="https://everydaylunchbox-d534442e43a4.herokuapp.com/"><img src="https://i.gyazo.com/14055a8490e40c304b10e3341c3e1496.png"　width="500"　target="_blank"/></a>
 
 
 <br/>  
